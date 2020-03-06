@@ -11,10 +11,13 @@ class UsersController < ApplicationController
     
     def create
         @user = User.create(user_params)
-        render_user
-        redirect_to "http://localhost:3001"
+        @user.save
+        render json: @user, include: :dreams
+        # redirect_to "http://localhost:3000/users"
     end
 
+   
+    private
     def user_params
         params.require(:user).permit([:name, :username, :password])
     end
