@@ -2,6 +2,8 @@
 The Dream Journal
 Hello this is my project, The Dream Journal. Ever wonder, if the people in your dreams, dream the same things you do? Welcome to the Dream Journal. Where all your dreams are waiting for you to reflect back on. Simply log you dreams, as soon as possible, to keep a clear picture. Next select your dreams to see if they line up with fellow dreamers. Enjoy the wonder moon widget, that will help you learn and understand the moon and its phases better.
 
+If you would like to see a demo of my project check out my self tutorial video: https://youtu.be/2SvhxvvdkUU
+
 Getting Started:
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
     1. For the front-end, go to $ https://github.com/AlteredArt/frontend-dream
